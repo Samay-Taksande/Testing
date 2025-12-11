@@ -4,6 +4,8 @@ export default function App() {
       App
 
       <h1>Samay Taksande </h1>
+      <marquee behavior="" direction="">My name is Samay </marquee>
+      
     </div>
   );
 }
